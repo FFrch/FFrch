@@ -1,6 +1,6 @@
 <h3 align="center">Full stack developer & freelancer from Lyon, France</h3>
 
-- 🍣 I'm currently working on [Sushi Restaurant app](https://sushirestaurantapp.herokuapp.com/)
+- 🍣 I'm currently working on [Sushi Restaurant app](https://sushirestaurantapp.herokuapp.com/) - Mobile first focus, responsive to Desktop screen.
 - 🌾 I worked on [BioMap](http://www.biomap.green)
 
 - 👩🏼‍💻 I’m looking for **front-end or full stack missions**
