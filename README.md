@@ -1,4 +1,4 @@
-<h3 align="center">Full stack developer & freelancer from Lyon, France</h3>
+<h3 align="center">Front-End developer & freelancer from Lyon, France</h3>
 
 - 🍣 I'm currently working on [Sushi Restaurant app](https://sushirestaurantapp.herokuapp.com/) - Mobile first focus, responsive to Desktop screen.
 - 🌾 I worked on [BioMap](http://www.biomap.green) and a personal [Blog](http://le-journal-du-chtimi.fr) for a customer
